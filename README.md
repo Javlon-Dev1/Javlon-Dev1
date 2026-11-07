@@ -1,38 +1,28 @@
 <h1 align="center">Salom, men Javlon 👋</h1>
 
 <p align="center">
-  Backend dasturchi bo'lishga tayyorlanayotgan talaba · Toshkent, O'zbekiston
+  Python / Django backend dasturchi · Toshkent
 </p>
-
----
 
 ## 🧑‍💻 Men haqimda
 
-- 🎓 Proweb o'quv markazida backend dasturlashni o'rganyapman
-- 🎯 Maqsadim: junior backend developer bo'lish
-- 🔨 Hozir ustida ishlayapman: **GameHub** (Steam'ga o'xshash o'yin platformasi)
-- 🌱 Keyingi reja: Django REST Framework'da Mini E-commerce API
-- 📫 Bog'lanish: [Telegram](https://t.me/USERNAME)
+- 🐍 Python va Django'da web-ilovalar va Telegram botlar yarataman
+- 📰 Telegram kanal integratsiyasi, email obunachilar va Google orqali kirishli yangiliklar saytini qurganman
+- 🎬 Admin paneli, majburiy obuna va statistikali kino bot yozganman
+- 🔨 Hozir: **GameHub** ustida ishlayapman, keyin Django REST Framework'da E-commerce API qilmoqchiman
+- 📫 Bog'lanish: [Telegram](https://t.me/Javlon_06)
+---
 
 ## 🛠 Texnologiyalar
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode,rest_api,fast_api,docker" />
 </p>
 
 - **Til:** Python
 - **Backend:** Django, Django REST Framework
 - **Ma'lumotlar bazasi:** SQLite
 - **Telegram botlar:** python-telegram-bot, aiogram
-
-## 📂 Loyihalarim
-
-| Loyiha | Tavsif | Texnologiyalar |
-|--------|--------|----------------|
-| [GameHub](https://github.com/Javlon-Dev1/GameHub-steam_clone-) | Steam'ga o'xshash o'yin platformasi | Django |
-| [Yangiliklar sayti](LINK) | Telegram kanal integratsiyasi, email obunachilar, Google orqali kirish | Django, allauth |
-| [Kino bot](LINK) | Admin panel, majburiy obuna, statistika | aiogram 3, SQLite |
-| [StudyFlow](LINK) | E-learning platformasi | Django |
 
 ## 📊 GitHub statistikam
 

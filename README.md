@@ -16,7 +16,7 @@
 ## 🛠 Texnologiyalar
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode,rest_api,fast_api,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode,api,docker" />
 </p>
 
 - **Til:** Python

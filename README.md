@@ -27,7 +27,6 @@
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Javlon-Dev1?style=for-the-badge&logo=github&color=blue" />
   <img src="https://img.shields.io/github/last-commit/Javlon-Dev1/GameHub-steam_clone-?style=for-the-badge&logo=git&color=green" />
   <img src="https://img.shields.io/github/languages/top/Javlon-Dev1/GameHub-steam_clone-?style=for-the-badge&logo=python" />
 </p>

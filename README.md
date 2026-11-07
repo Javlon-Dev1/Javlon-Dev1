@@ -16,7 +16,7 @@
 ## 🛠 Texnologiyalar
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode,api,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,sqlite,git,github,vscode,docker" />
 </p>
 
 - **Til:** Python
@@ -24,11 +24,12 @@
 - **Ma'lumotlar bazasi:** SQLite
 - **Telegram botlar:** python-telegram-bot, aiogram
 
-## 📊 GitHub statistikam
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javlon-Dev1&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javlon-Dev1&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://img.shields.io/github/followers/Javlon-Dev1?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/Javlon-Dev1/GameHub-steam_clone-?style=for-the-badge&logo=git&color=green" />
+  <img src="https://img.shields.io/github/languages/top/Javlon-Dev1/GameHub-steam_clone-?style=for-the-badge&logo=python" />
 </p>
 
 ---
